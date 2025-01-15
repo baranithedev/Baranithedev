@@ -11,15 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=baranithedev&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=baranithedev&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baranithedev&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baranithedev&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
-
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=baranithedev&limit=5&theme=swift&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=baranithedev&icon=2&color=12)](https://visitcount.itsvg.in)
